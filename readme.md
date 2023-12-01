@@ -1,4 +1,4 @@
-# Project Name
+# SQLite3Utils
 
 A comprehensive SQLite3 utility package simplifying database interactions. Perform CRUD operations effortlessly and manage tables with ease. Enhance your Python projects with seamless SQLite3 integration using our collection of convenient functions
 
@@ -40,22 +40,16 @@ Remember that if you are using SQLite in a specific programming language like Py
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/technicalheist/sqlite3-helper.git
+    pip install sqlite3utils
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd sqlite3-helper
-    ```
+    from sqlite3utils import list_tables ...
+    ``
 
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Create and set up your SQLite database:
+3. Create app.py and set up your SQLite database:
 
     ```bash
     from sqlite3utils import list_tables
