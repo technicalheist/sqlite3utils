@@ -40,8 +40,7 @@ Remember that if you are using SQLite in a specific programming language like Py
 1. Clone the repository:
 
     ```bash
-    pip install sqlite3utils
-    ```
+    pip install sqlite3utils```
 
 2. Navigate to the project directory:
 
