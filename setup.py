@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sqlite3utils',
-    version='0.4',
+    version='0.5',
     packages=find_packages(),
     install_requires=[],
     long_description_content_type='text/x-rst', 
