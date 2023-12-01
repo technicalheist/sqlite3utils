@@ -46,7 +46,7 @@ Remember that if you are using SQLite in a specific programming language like Py
 
     ```bash
     from sqlite3utils import list_tables ...
-    ``
+    ```
 
 3. Create app.py and set up your SQLite database:
 
