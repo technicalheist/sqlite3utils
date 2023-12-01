@@ -1,0 +1,3 @@
+build/
+dist/
+sqlite3utils.egg-info/
